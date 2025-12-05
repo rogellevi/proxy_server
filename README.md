@@ -14,6 +14,7 @@ config.txt
 ### INSTALACION
 
 ```
+bash -c "$(wget -O - https://raw.githubusercontent.com/rogellevi/proxy_server/main/instalar_multi_proxy.sh)"
 ```
 
 
