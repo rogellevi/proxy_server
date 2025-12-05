@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "===================================================="
-echo "      INSTALADOR AUTOMÁTICO - PYTHON PROXY"
+echo "      INSTALADOR AUTOMÁTICO - PYTHON PROXY-SERVER"
 echo "===================================================="
 
 # --- 1. PEDIR CONFIGURACIÓN INICIAL ---
