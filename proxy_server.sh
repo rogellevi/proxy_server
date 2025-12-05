@@ -6,7 +6,7 @@ echo "===================================================="
 
 # --- 1. PEDIR CONFIGURACIÓN INICIAL ---
 
-read -p "Introduce el target_host (ej: us1.chadvps.xyz): " TARGET_HOST
+read -p "Introduce el target_host (ej: tudominio.com): " TARGET_HOST
 read -p "Introduce el target_port (ej: 5454): " TARGET_PORT
 
 # --- 2. CREAR CARPETA DEL PROYECTO ---
