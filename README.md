@@ -21,6 +21,10 @@ bash -c "$(wget -O - https://raw.githubusercontent.com/rogellevi/proxy_server/ma
 bash -c "$(wget -O - https://raw.githubusercontent.com/rogellevi/proxy_server/main/instalar_multi_proxy.sh)"
 ```
 
+```
+bash -c "$(wget -O - https://raw.githubusercontent.com/rogellevi/proxy_server/main/install_panel.sh)"
+```
+
 
 ### Ejecutar
 ```
