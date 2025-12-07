@@ -30,3 +30,23 @@ bash -c "$(wget -O - https://raw.githubusercontent.com/rogellevi/proxy_server/ma
 ```
 sudo bash instalar_multi_proxy.sh
 ```
+
+### Instalacion 8888
+
+Dale permisos de ejecución:
+```
+chmod +x 8888.sh
+```
+
+Ejecútalo:
+```
+
+./8888.sh
+```
+si da error correr este codigo.
+```
+sed -i 's/\r$//' 8888.sh
+chmod +x 8888.sh
+./8888.sh
+```
+
